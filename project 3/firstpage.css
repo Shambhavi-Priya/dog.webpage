@@ -1,0 +1,21 @@
+body{
+    background-color: aquamarine;
+    font-size: 20px;
+    margin: 20px;
+    align-items: center;
+    padding: 0%;
+}
+section{
+    background-color: rgb(255, 232, 127);
+    font-size: 30px;
+    margin: 10px;
+    align-items: center;
+    padding: 0%;
+}
+article{
+    background-color: rgb(255, 127, 210);
+    font-size: 30px;
+    margin: 10px;
+    align-items: center;
+    padding: 0%;
+}
